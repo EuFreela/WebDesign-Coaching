@@ -1,14 +1,11 @@
-Resumindo em tópicos:
+Resumindo em tÃ³picos:
 
-Finalizar a página home (fica a seu critério);
-Criar o layout da página Quem Somos;
-Criar o layout da página Cursos;
-Criar o layout da página de contatos;
-Envie as imagens (.jpg ou .png) no nosso fórum de discussão aqui na Udemy, na seção 
-de PERGUNTAS e RESPOSTAS.
+Finalizar a pÃ¡gina home (fica a seu critÃ©rio);
+Criar o layout da pÃ¡gina Quem Somos;
+Criar o layout da pÃ¡gina Cursos;
+Criar o layout da pÃ¡gina de contatos;
 
-
-você deve continuar a criação das páginas 
+vocÃª deve continuar a criaÃ§Ã£o das pÃ¡ginas 
 Quem Somos, Cursos e Contatos, seguindo a mesma ideia apresentada 
 
 
