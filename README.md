@@ -22,8 +22,16 @@
   <li>Criar o layout da página de contatos;</li>
 </o>
 <br>
-<p>Página curso criada</p>
-<img src="https://github.com/EuFreela/WebDesign-Coaching/blob/master/desenvolvimento/course-mockup.jpg" width="200" heigth="200">
+<p>Página quem somos</p>
+<img src="https://github.com/EuFreela/WebDesign-Coaching/blob/master/desenvolvimento/quem%20somos.jpg" width="900" heigth="200">
 <br>
-<p>Página home modificada - inserção de footer</p>
-<img src="https://github.com/EuFreela/WebDesign-Coaching/blob/master/desenvolvimento/home-mockup.jpg" width="200" heigth="200">
+<p>Página detalhes do curso</p>
+<img src="https://github.com/EuFreela/WebDesign-Coaching/blob/master/desenvolvimento/home-mockup.jpg" width="900" heigth="200">
+<br>
+<p>Página lista de cursos</p>
+<img src="https://github.com/EuFreela/WebDesign-Coaching/blob/master/desenvolvimento/course-mockup.jpg" width="900" heigth="200">
+<br>
+<p>Página home modificada</p>
+<img src="https://github.com/EuFreela/WebDesign-Coaching/blob/master/desenvolvimento/home-mockup.jpg" width="900" heigth="200">
+
+
