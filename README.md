@@ -1,6 +1,6 @@
 # WebDesign-Coaching
 
-### MÓDULO A2 v1.0 - INSTITUCIONAL
+### MÓDULO A2 v1.3 - INSTITUCIONAL
 #### Treinamento UX/UI design
 #### Neste modelo, eu não precisei criar a guia de estilos, logo marca ou imagens. Ja foram definidas. O treino seria continuar o desenvolvimento do layout a partir do que ja tem sido feito. Este modelo trata-se de um site institucional.
 
@@ -17,7 +17,7 @@
 <p>Pedido:</p>
 <o>
   <li>Finalizar a página home (fica a seu critério); <b>OK</b></li>
-  <li>Criar o layout da página Quem Somos;</li>
+  <li>Criar o layout da página Quem Somos;  <b>OK</b></li>
   <li>Criar o layout da página Cursos: lista <b>OK</b>; descrição <b>OK</b>;</li>
   <li>Criar o layout da página de contatos;</li>
 </o>
