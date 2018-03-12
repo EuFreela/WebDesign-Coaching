@@ -19,7 +19,7 @@
   <li>Finalizar a página home (fica a seu critério); <b>OK</b></li>
   <li>Criar o layout da página Quem Somos;  <b>OK</b></li>
   <li>Criar o layout da página Cursos: lista <b>OK</b>; descrição <b>OK</b>;</li>
-  <li>Criar o layout da página de contatos;</li>
+  <li>Criar o layout da página de contatos; <b>OK</b></li>
 </o>
 <br>
 <p>Página quem somos</p>
