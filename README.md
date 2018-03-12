@@ -1,6 +1,6 @@
 # WebDesign-Coaching
 
-### MÓDULO A2 v1.4 - INSTITUCIONAL
+### MÓDULO A2 v1.6 - INSTITUCIONAL
 #### Treinamento UX/UI design
 #### Neste modelo, eu não precisei criar a guia de estilos, logo marca ou imagens. Ja foram definidas. O treino seria continuar o desenvolvimento do layout a partir do que ja tem sido feito. Este modelo trata-se de um site institucional.
 
@@ -27,10 +27,10 @@
 <img src="https://github.com/EuFreela/WebDesign-Coaching/blob/master/desenvolvimento/contact.jpg" width="900" heigth="200">
 <br>
 <p>Página quem somos</p>
-<img src="https://github.com/EuFreela/WebDesign-Coaching/blob/master/desenvolvimento/quem%20somos.jpg" width="900" heigth="200">
+<img src="https://github.com/EuFreela/WebDesign-Coaching/blob/master/desenvolvimento/quem-somos.jpg" width="900" heigth="200">
 <br>
 <p>Página detalhes do curso</p>
-<img src="https://github.com/EuFreela/WebDesign-Coaching/blob/master/desenvolvimento/home-mockup.jpg" width="900" heigth="200">
+<img src=https://github.com/EuFreela/WebDesign-Coaching/blob/master/desenvolvimento/course-extand-mockup.jpg" width="900" heigth="200">
 <br>
 <p>Página lista de cursos</p>
 <img src="https://github.com/EuFreela/WebDesign-Coaching/blob/master/desenvolvimento/course-mockup.jpg" width="900" heigth="200">
