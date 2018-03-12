@@ -30,7 +30,7 @@
 <img src="https://github.com/EuFreela/WebDesign-Coaching/blob/master/desenvolvimento/quem-somos.jpg" width="900" heigth="200">
 <br>
 <p>Página detalhes do curso</p>
-<img src=https://github.com/EuFreela/WebDesign-Coaching/blob/master/desenvolvimento/course-extand-mockup.jpg" width="900" heigth="200">
+<img src="https://github.com/EuFreela/WebDesign-Coaching/blob/master/desenvolvimento/course-extand-mockup.jpg" width="900" heigth="200">
 <br>
 <p>Página lista de cursos</p>
 <img src="https://github.com/EuFreela/WebDesign-Coaching/blob/master/desenvolvimento/course-mockup.jpg" width="900" heigth="200">
