@@ -1,6 +1,7 @@
 # WebDesign-Coaching
 
-### MÓDULO A2 v1.6 - INSTITUCIONAL
+### MÓDULO A2 v1.6 - 
+### FULLSTACK
 #### Treinamento UX/UI design
 #### Neste modelo, eu não precisei criar a guia de estilos, logo marca ou imagens. Ja foram definidas. O treino seria continuar o desenvolvimento do layout a partir do que ja tem sido feito. Este modelo trata-se de um site institucional.
 
